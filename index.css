@@ -40,6 +40,9 @@ div {
   margin-top: 30px;
   padding: 20px;
   margin-left: 0;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 1);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 1);
 }
 
 hr {
@@ -60,6 +63,9 @@ a {
   height: 200px;
   text-align: center;
   float: left;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 1);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 1);
 }
 
 .sayali {
